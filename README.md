@@ -12,7 +12,7 @@
 
 ## Wire Frame
 
-![PolyhedronWireFrame](D:\IdeaProjects\Polyhedron\src\tz\data\PolyhedronWireFrame.png)
+![PolyhedronWireFrame](https://github.com/bullet37/Polyhedron-Rendering/blob/main/src/tz/data/PolyhedronWireFrame.png?raw=true)
 
 ## Polyhedron
 
