@@ -16,7 +16,7 @@
 
 ## Polyhedron
 
-![Polyhedron](D:\IdeaProjects\Polyhedron\src\tz\data\Polyhedron.png)
+![Polyhedron]([D:\IdeaProjects\Polyhedron\src\tz\data\Polyhedron.png](https://github.com/bullet37/Polyhedron-Rendering/blob/main/src/tz/data/Polyhedron.png?raw=true))
 
 
 
